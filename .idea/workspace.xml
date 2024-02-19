@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c386afe3-18be-4076-b073-6fdc1919054b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/images/footer_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/footer_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accufire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markaty.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saleko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/souqlg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +35,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Downloads\template\New folder\portfolio" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708248404425</updated>
-      <workItem from="1708248405759" duration="7388000" />
+      <workItem from="1708248405759" duration="9088000" />
+      <workItem from="1708368488496" duration="6144000" />
     </task>
     <servers />
   </component>
