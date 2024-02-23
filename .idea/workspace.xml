@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c386afe3-18be-4076-b073-6fdc1919054b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/accufire.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markaty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saleko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/souqlg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acommerce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/channel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gundies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gunshow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopariba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/touristtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utahairguns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -49,7 +55,9 @@
       <option name="presentableId" value="Default" />
       <updated>1708248404425</updated>
       <workItem from="1708248405759" duration="9088000" />
-      <workItem from="1708368488496" duration="6144000" />
+      <workItem from="1708368488496" duration="6919000" />
+      <workItem from="1708415700689" duration="1594000" />
+      <workItem from="1708680873077" duration="6945000" />
     </task>
     <servers />
   </component>
