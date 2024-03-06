@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c386afe3-18be-4076-b073-6fdc1919054b" name="Changes" comment="" />
+    <list default="true" id="c386afe3-18be-4076-b073-6fdc1919054b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accufire.html" beforeDir="false" afterPath="$PROJECT_DIR$/accufire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acommerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/acommerce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/britevue.html" beforeDir="false" afterPath="$PROJECT_DIR$/britevue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel.html" beforeDir="false" afterPath="$PROJECT_DIR$/channel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundies.html" beforeDir="false" afterPath="$PROJECT_DIR$/gundies.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gunshow.html" beforeDir="false" afterPath="$PROJECT_DIR$/gunshow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/markaty.html" beforeDir="false" afterPath="$PROJECT_DIR$/markaty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saleko.html" beforeDir="false" afterPath="$PROJECT_DIR$/saleko.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopariba.html" beforeDir="false" afterPath="$PROJECT_DIR$/shopariba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/souqlg.html" beforeDir="false" afterPath="$PROJECT_DIR$/souqlg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/touristtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/touristtube.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utahairguns.html" beforeDir="false" afterPath="$PROJECT_DIR$/utahairguns.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +60,9 @@
       <workItem from="1708368488496" duration="6919000" />
       <workItem from="1708415700689" duration="1594000" />
       <workItem from="1708680873077" duration="7151000" />
+      <workItem from="1708773192785" duration="778000" />
+      <workItem from="1708934091799" duration="750000" />
+      <workItem from="1709716442776" duration="3237000" />
     </task>
     <servers />
   </component>
