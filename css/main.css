@@ -22880,3 +22880,5 @@ h4,
 h5 {
 	line-height: 60px;
 }
+.technical-skills{ text-align: center; text-justify: auto;}
+.technical-skills ul li {list-style-type: none;}
